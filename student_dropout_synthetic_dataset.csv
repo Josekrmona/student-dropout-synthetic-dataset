@@ -1,0 +1,501 @@
+student_id,age,gender,place_of_origin,high_school_avg,admission_test_score,first_semester_avg,socioeconomic_level,scholarship,loan,financial_aid,dropout
+S1000,20,Female,Montería,3.09,72.0,2.92,3,No,Yes,No,Yes
+S1001,19,Female,Barranquilla,2.52,84.0,4.54,1,No,Yes,No,Yes
+S1002,20,Male,Montería,3.91,45.0,4.79,1,No,Yes,No,Yes
+S1003,22,Other,Barranquilla,5.0,69.0,4.18,4,No,No,No,No
+S1004,19,Female,,3.7,66.0,3.47,1,No,Yes,Yes,No
+S1005,19,Male,Valledupar,4.16,76.0,2.75,2,,Yes,No,No
+S1006,22,Male,Barranquilla,3.75,71.0,2.74,5,,No,No,Yes
+S1007,21,Male,Montería,3.65,59.0,3.82,1,No,No,No,Yes
+S1008,18,Male,Montería,4.21,64.0,3.73,1,No,Yes,No,Yes
+S1009,20,Male,Cartagena,3.54,58.0,4.52,3,No,No,No,Yes
+S1010,18,Male,Barranquilla,3.85,81.0,3.92,2,No,No,No,Yes
+S1011,18,Male,Barranquilla,3.88,68.0,2.2,3,Yes,No,No,Yes
+S1012,19,Male,Cartagena,3.33,91.0,,4,No,No,Yes,Yes
+S1013,16,Female,Other,4.25,67.0,2.6,1,No,Yes,No,Yes
+S1014,16,Male,Santa Marta,3.6,59.0,3.09,3,No,Yes,Yes,No
+S1015,18,Female,Barranquilla,3.28,50.0,3.6,3,No,No,Yes,Yes
+S1016,17,Male,Santa Marta,4.0,46.0,5.0,1,No,No,No,No
+S1017,20,Other,Cartagena,3.21,49.0,5.0,3,Yes,No,No,No
+S1018,17,Male,Valledupar,3.72,71.0,3.89,2,No,No,No,Yes
+S1019,16,Male,,3.69,74.0,3.25,3,Yes,No,Yes,No
+S1020,22,Female,Valledupar,4.3,49.0,3.83,1,No,No,No,Yes
+S1021,19,Female,Cartagena,3.96,79.0,4.11,2,,No,No,No
+S1022,19,Female,Other,3.69,62.0,3.14,2,No,No,No,Yes
+S1023,16,Male,Barranquilla,4.15,70.0,4.84,4,Yes,Yes,No,No
+S1024,18,Male,Santa Marta,4.46,87.0,3.58,1,No,No,No,Yes
+S1025,19,Female,Other,4.01,79.0,3.8,2,Yes,Yes,No,Yes
+S1026,17,Female,Barranquilla,3.71,65.0,3.93,2,No,Yes,No,No
+S1027,20,Female,Other,2.98,57.0,3.74,4,Yes,No,Yes,Yes
+S1028,18,Female,Santa Marta,3.11,42.0,4.07,3,Yes,Yes,No,Yes
+S1029,18,Male,Barranquilla,3.53,59.0,2.91,3,No,Yes,No,Yes
+S1030,18,Female,Barranquilla,3.36,65.0,2.95,4,No,Yes,No,No
+S1031,23,Male,Santa Marta,3.6,56.0,2.52,5,No,No,Yes,No
+S1032,19,Male,Barranquilla,3.73,66.0,3.75,2,No,No,No,No
+S1033,17,Male,Cartagena,0.6,69.0,4.02,3,No,No,No,Yes
+S1034,21,Female,Barranquilla,3.66,65.0,3.77,4,No,Yes,No,No
+S1035,17,Male,Santa Marta,3.97,60.0,4.74,6,No,No,Yes,No
+S1036,19,Male,Barranquilla,3.74,70.0,3.4,5,No,No,No,No
+S1037,16,Female,Montería,2.61,73.0,3.93,2,No,Yes,No,Yes
+S1038,16,Male,Other,3.18,55.0,2.53,1,No,No,No,Yes
+S1039,19,Female,Other,3.62,85.0,3.09,3,Yes,Yes,Yes,No
+S1040,20,Male,Valledupar,3.03,67.0,,4,No,No,No,No
+S1041,19,Female,Barranquilla,4.03,68.0,4.08,3,Yes,No,No,No
+S1042,19,Female,Valledupar,4.54,76.0,3.16,3,No,No,Yes,Yes
+S1043,18,Male,Barranquilla,4.37,71.0,3.34,4,Yes,Yes,Yes,Yes
+S1044,16,Male,Barranquilla,3.58,79.0,2.19,2,No,No,No,No
+S1045,18,Male,Barranquilla,4.52,71.0,3.11,5,No,No,Yes,No
+S1046,18,Male,Soledad,3.78,61.0,4.11,2,Yes,No,Yes,No
+S1047,21,Other,Valledupar,3.51,72.0,3.86,2,Yes,No,No,Yes
+S1048,20,Male,Santa Marta,3.36,54.0,3.8,2,Yes,No,No,Yes
+S1049,16,Female,Soledad,3.53,69.0,3.44,4,No,Yes,Yes,Yes
+S1050,20,Male,Barranquilla,3.49,,3.41,1,No,No,No,No
+S1051,18,Female,Other,3.79,66.0,2.87,1,Yes,No,Yes,Yes
+S1052,18,Female,Soledad,3.79,66.0,,6,No,No,Yes,Yes
+S1053,20,Female,Soledad,3.7,45.0,3.74,1,No,Yes,Yes,Yes
+S1054,21,Male,Barranquilla,3.94,61.0,3.79,3,No,No,No,Yes
+S1055,21,Male,Valledupar,4.35,69.0,2.98,3,No,Yes,Yes,No
+S1056,17,Male,Santa Marta,4.22,70.0,1.68,3,No,No,Yes,Yes
+S1057,18,Female,Barranquilla,5.7,56.0,4.28,3,No,No,No,Yes
+S1058,20,Female,Barranquilla,2.3,83.0,3.02,2,Yes,No,No,Yes
+S1059,21,Female,Santa Marta,4.21,58.0,2.71,3,Yes,Yes,Yes,No
+S1060,18,Male,Santa Marta,2.95,,3.95,2,Yes,No,No,No
+S1061,19,Female,Barranquilla,3.58,73.0,3.09,3,Yes,Yes,Yes,No
+S1062,17,Female,Other,3.06,60.0,4.25,1,No,Yes,No,Yes
+S1063,17,Male,Barranquilla,2.71,89.0,3.89,3,No,No,No,Yes
+S1064,21,Male,Soledad,4.0,54.0,3.95,1,No,No,No,Yes
+S1065,22,Female,Other,4.12,79.0,2.31,2,Yes,No,No,Yes
+S1066,19,Female,Soledad,3.38,80.0,4.37,1,No,No,No,Yes
+S1067,21,Female,Santa Marta,2.27,60.0,3.61,1,No,No,Yes,Yes
+S1068,20,Male,Soledad,3.4,85.0,3.1,4,,No,No,No
+S1069,18,Female,Barranquilla,3.92,65.0,3.51,2,Yes,Yes,Yes,No
+S1070,20,Male,Other,2.89,71.0,1.98,5,No,No,No,Yes
+S1071,22,Male,Soledad,3.8,71.0,,6,No,No,No,Yes
+S1072,19,Male,Other,3.69,66.0,2.58,3,No,Yes,No,Yes
+S1073,22,Female,Barranquilla,4.02,78.0,2.32,1,No,Yes,No,Yes
+S1074,16,Female,Barranquilla,3.77,78.0,2.18,2,Yes,No,No,No
+S1075,21,Female,Barranquilla,3.16,47.0,,4,Yes,Yes,No,Yes
+S1076,19,Male,Santa Marta,4.36,84.0,2.9,2,No,Yes,Yes,Yes
+S1077,18,Female,Soledad,3.61,48.0,4.63,1,No,Yes,No,No
+S1078,19,Male,Montería,3.68,80.0,2.97,3,,No,No,No
+S1079,16,Female,Soledad,3.19,82.0,2.03,4,No,No,No,Yes
+S1080,19,Male,Other,3.46,,2.51,4,Yes,Yes,No,Yes
+S1081,20,Male,Barranquilla,3.21,63.0,4.39,1,No,No,Yes,Yes
+S1082,22,Male,Montería,3.6,55.0,3.28,3,No,No,No,Yes
+S1083,18,Male,Valledupar,4.64,65.0,2.96,2,No,No,No,No
+S1084,17,Female,Valledupar,2.95,64.0,3.53,1,No,Yes,Yes,No
+S1085,18,Female,Montería,2.81,77.0,3.8,5,No,No,No,No
+S1086,21,Male,Valledupar,4.51,84.0,4.29,2,No,No,No,Yes
+S1087,20,Female,Santa Marta,3.58,85.0,4.56,2,No,No,No,No
+S1088,18,Male,Barranquilla,3.33,61.0,3.11,1,No,Yes,No,Yes
+S1089,20,Female,Barranquilla,4.27,65.0,2.34,5,No,No,Yes,Yes
+S1090,19,Female,Other,3.37,48.0,3.07,4,No,No,No,Yes
+S1091,21,Female,Cartagena,4.7,58.0,3.61,3,Yes,No,No,Yes
+S1092,18,Male,Valledupar,4.07,80.0,2.63,4,Yes,Yes,No,No
+S1093,18,Female,Soledad,3.43,87.0,2.63,1,Yes,Yes,No,Yes
+S1094,18,Female,,4.89,53.0,3.68,2,No,No,Yes,Yes
+S1095,16,Male,Barranquilla,3.37,61.0,3.36,2,No,No,Yes,Yes
+S1096,20,Male,Santa Marta,4.11,68.0,3.43,1,,Yes,No,Yes
+S1097,20,Female,Soledad,3.86,71.0,2.79,3,Yes,No,No,Yes
+S1098,19,Female,Barranquilla,4.42,58.0,3.22,5,No,Yes,No,No
+S1099,19,Female,Soledad,4.56,73.0,2.66,1,,No,Yes,No
+S1100,16,Female,Barranquilla,3.72,62.0,4.11,2,No,No,No,Yes
+S1101,18,Female,Cartagena,3.29,68.0,4.23,1,No,No,No,Yes
+S1102,18,Male,Barranquilla,3.95,75.0,1.92,2,No,No,No,Yes
+S1103,17,Male,Valledupar,3.33,68.0,2.66,5,Yes,Yes,Yes,No
+S1104,19,Male,Barranquilla,4.81,63.0,2.2,3,Yes,No,No,Yes
+S1105,20,Female,Soledad,3.78,67.0,2.88,3,No,Yes,No,Yes
+S1106,23,Male,Barranquilla,3.5,67.0,3.33,4,No,No,No,No
+S1107,19,Female,,3.8,64.0,2.24,1,No,No,No,Yes
+S1108,20,Female,Soledad,2.96,65.0,2.66,3,Yes,No,No,Yes
+S1109,19,Female,Soledad,3.17,87.0,2.6,2,No,Yes,No,Yes
+S1110,16,Male,Cartagena,4.36,75.0,,3,No,No,No,No
+S1111,19,Female,Barranquilla,3.34,64.0,3.46,6,No,Yes,Yes,No
+S1112,19,Male,Santa Marta,3.12,76.0,2.82,4,Yes,Yes,No,Yes
+S1113,24,Female,Montería,4.0,64.0,3.54,2,Yes,No,Yes,No
+S1114,19,Male,Valledupar,4.35,82.0,2.96,4,No,No,No,Yes
+S1115,20,Male,,4.1,72.0,3.18,1,No,No,No,Yes
+S1116,19,Female,Soledad,4.25,67.0,4.74,1,Yes,No,No,Yes
+S1117,17,Male,Barranquilla,3.28,73.0,4.47,1,,Yes,No,Yes
+S1118,21,Male,Barranquilla,2.92,49.0,2.36,2,No,No,Yes,Yes
+S1119,21,Female,Other,4.53,54.0,4.06,3,No,No,No,No
+S1120,21,Female,Barranquilla,3.52,54.0,4.05,3,No,Yes,No,No
+S1121,17,Female,Soledad,3.56,70.0,2.48,5,,No,Yes,Yes
+S1122,22,Female,Cartagena,4.43,89.0,4.06,3,No,No,No,Yes
+S1123,16,Female,Santa Marta,4.01,95.0,4.63,3,Yes,No,Yes,Yes
+S1124,20,Male,Cartagena,3.95,76.0,2.5,1,No,No,No,No
+S1125,34,Male,Barranquilla,4.89,74.0,2.67,1,No,No,No,Yes
+S1126,17,Male,Barranquilla,3.35,46.0,4.21,3,No,No,Yes,No
+S1127,18,Female,Cartagena,4.21,61.0,3.62,2,No,No,No,No
+S1128,19,Female,Barranquilla,3.73,59.0,3.84,4,Yes,Yes,Yes,No
+S1129,18,Male,Soledad,3.85,61.0,3.67,1,Yes,No,Yes,No
+S1130,16,Male,Barranquilla,4.54,66.0,3.71,1,No,No,Yes,Yes
+S1131,19,Female,Barranquilla,3.98,62.0,,2,Yes,No,No,No
+S1132,17,Male,Soledad,4.0,,4.24,2,Yes,No,No,No
+S1133,20,Female,Barranquilla,4.29,77.0,4.34,1,No,No,No,Yes
+S1134,17,Female,Cartagena,3.5,55.0,3.22,4,No,No,Yes,No
+S1135,22,Female,Santa Marta,3.24,71.0,3.37,1,No,Yes,Yes,Yes
+S1136,17,Male,,3.13,93.0,2.18,3,No,No,No,No
+S1137,18,Female,Barranquilla,2.62,57.0,3.81,2,No,No,No,Yes
+S1138,21,Female,Barranquilla,4.83,38.0,3.86,1,No,Yes,No,Yes
+S1139,17,Female,Barranquilla,3.09,65.0,3.35,2,No,No,Yes,Yes
+S1140,19,Female,Santa Marta,3.58,81.0,4.3,4,No,No,No,No
+S1141,22,Female,Santa Marta,3.55,92.0,3.13,2,No,No,No,Yes
+S1142,16,Female,Barranquilla,3.87,53.0,3.85,4,No,Yes,No,Yes
+S1143,19,Male,Other,4.15,74.0,2.58,1,No,Yes,No,Yes
+S1144,20,Female,Barranquilla,4.17,62.0,3.38,4,No,No,Yes,No
+S1145,21,Female,Cartagena,3.38,67.0,3.26,2,No,Yes,No,Yes
+S1146,17,Male,Santa Marta,3.61,100.0,3.58,3,Yes,No,No,Yes
+S1147,16,Female,Montería,3.86,50.0,5.6,3,No,No,No,No
+S1148,20,Female,Santa Marta,3.56,71.0,3.29,5,Yes,Yes,No,No
+S1149,20,Female,Montería,4.58,74.0,4.06,2,No,Yes,No,No
+S1150,20,Male,Barranquilla,3.97,81.0,3.05,1,No,No,No,Yes
+S1151,20,Male,Montería,4.1,69.0,2.11,1,No,No,Yes,Yes
+S1152,18,Other,Barranquilla,4.06,72.0,4.8,4,No,No,No,Yes
+S1153,19,Female,Other,4.35,63.0,4.51,3,No,No,No,Yes
+S1154,20,Male,Cartagena,3.8,71.0,2.37,4,No,Yes,No,Yes
+S1155,18,Female,Montería,2.99,64.0,3.95,2,No,No,No,Yes
+S1156,23,Female,Soledad,3.92,,3.0,2,No,No,Yes,No
+S1157,20,Female,Santa Marta,3.34,64.0,3.61,1,Yes,No,No,Yes
+S1158,17,Female,Cartagena,3.41,73.0,3.64,6,Yes,No,No,No
+S1159,20,Male,Valledupar,4.02,68.0,3.21,3,No,No,Yes,Yes
+S1160,17,Male,Barranquilla,4.38,82.0,2.77,5,No,Yes,No,No
+S1161,21,Male,,5.8,67.0,2.85,2,No,No,Yes,Yes
+S1162,21,Female,Barranquilla,3.87,47.0,2.67,3,No,Yes,No,Yes
+S1163,17,Male,Barranquilla,4.64,83.0,2.73,3,Yes,Yes,No,Yes
+S1164,21,Male,Montería,3.83,57.0,3.35,2,Yes,No,No,No
+S1165,20,Male,Barranquilla,5.0,60.0,2.83,4,No,No,No,Yes
+S1166,21,Female,Other,4.01,61.0,3.95,5,Yes,No,No,No
+S1167,23,Female,Barranquilla,2.73,84.0,4.59,5,No,No,No,Yes
+S1168,19,Male,Barranquilla,4.11,42.0,2.94,4,No,No,No,No
+S1169,17,Male,Valledupar,3.91,,,2,No,Yes,No,Yes
+S1170,17,Female,Santa Marta,4.41,81.0,3.8,2,,No,No,No
+S1171,17,Male,Soledad,4.07,2.0,3.78,6,Yes,No,Yes,No
+S1172,19,Male,Cartagena,3.62,67.0,3.46,1,Yes,No,No,Yes
+S1173,20,Male,Santa Marta,3.03,71.0,3.99,4,No,No,Yes,No
+S1174,20,Male,Barranquilla,3.59,74.0,3.79,4,No,Yes,No,Yes
+S1175,21,Male,Other,3.23,76.0,2.41,3,Yes,No,No,No
+S1176,19,Female,Other,3.38,75.0,4.1,6,No,No,No,No
+S1177,22,Male,Santa Marta,4.02,69.0,4.11,2,No,Yes,No,Yes
+S1178,18,Female,Barranquilla,4.62,66.0,2.79,2,Yes,No,No,Yes
+S1179,24,Male,Santa Marta,3.92,66.0,3.43,1,No,No,No,Yes
+S1180,20,Female,Barranquilla,3.04,66.0,3.95,2,No,No,Yes,Yes
+S1181,17,Female,Barranquilla,3.94,82.0,3.23,2,Yes,No,Yes,Yes
+S1182,17,Male,Barranquilla,4.36,75.0,4.26,2,No,Yes,Yes,Yes
+S1183,20,Female,Soledad,3.36,33.0,5.0,4,No,Yes,No,Yes
+S1184,19,Male,Montería,3.63,76.0,2.77,5,No,Yes,Yes,No
+S1185,20,Female,Valledupar,3.71,70.0,2.3,1,No,No,No,Yes
+S1186,20,Male,Valledupar,3.27,68.0,3.64,2,No,Yes,No,Yes
+S1187,19,Male,Soledad,4.06,63.0,3.98,5,No,Yes,Yes,No
+S1188,17,Male,Barranquilla,3.63,81.0,3.22,1,No,No,No,Yes
+S1189,16,Other,Soledad,3.93,79.0,4.56,1,No,No,No,Yes
+S1190,18,Female,Other,3.21,59.0,2.33,1,No,No,Yes,Yes
+S1191,21,Female,Barranquilla,3.46,73.0,3.95,3,Yes,Yes,No,No
+S1192,19,Male,Montería,4.1,56.0,2.92,1,No,Yes,No,No
+S1193,17,Female,Cartagena,3.49,51.0,4.78,6,No,Yes,No,Yes
+S1194,19,Male,Soledad,4.65,,4.99,2,No,No,No,No
+S1195,20,Female,Valledupar,3.48,78.0,2.79,3,No,No,No,Yes
+S1196,17,Male,Soledad,3.82,79.0,2.96,2,Yes,No,No,Yes
+S1197,19,Male,Montería,4.21,74.0,4.09,3,No,Yes,Yes,No
+S1198,19,Male,Other,2.92,77.0,3.09,3,Yes,No,No,No
+S1199,17,Male,Soledad,2.73,,3.36,4,No,Yes,No,Yes
+S1200,20,Female,Barranquilla,2.86,60.0,3.42,4,No,No,Yes,Yes
+S1201,20,Male,Cartagena,4.39,73.0,1.86,3,No,No,No,Yes
+S1202,21,Female,Other,3.4,78.0,3.39,5,No,No,No,No
+S1203,21,Male,Barranquilla,5.0,,2.85,4,No,Yes,No,Yes
+S1204,16,Female,Santa Marta,3.39,82.0,3.01,4,No,Yes,No,No
+S1205,17,Male,Santa Marta,3.8,76.0,4.55,1,No,No,No,No
+S1206,20,Male,Valledupar,4.55,72.0,2.39,1,No,Yes,No,Yes
+S1207,20,Female,Barranquilla,4.8,81.0,4.05,1,No,Yes,No,No
+S1208,20,Male,Santa Marta,4.83,,3.18,3,Yes,Yes,No,No
+S1209,27,Male,Other,4.36,57.0,3.18,2,Yes,Yes,No,No
+S1210,20,Female,Barranquilla,4.26,66.0,4.03,2,No,No,No,No
+S1211,21,Female,Barranquilla,4.03,59.0,3.67,5,No,No,No,No
+S1212,21,Male,Other,4.13,60.0,3.86,5,No,Yes,No,Yes
+S1213,20,Male,Barranquilla,3.4,66.0,4.17,5,Yes,No,No,No
+S1214,18,Female,Montería,3.25,58.0,3.13,2,No,No,No,Yes
+S1215,21,Male,Soledad,3.7,64.0,,4,No,No,Yes,No
+S1216,17,Male,Barranquilla,3.61,,2.53,2,Yes,No,No,No
+S1217,19,Male,Montería,3.45,71.0,2.74,1,No,No,No,Yes
+S1218,18,Female,Soledad,4.08,68.0,5.0,1,No,Yes,Yes,No
+S1219,19,Female,Cartagena,4.23,58.0,-0.3,2,No,No,No,Yes
+S1220,24,Male,Soledad,3.75,76.0,2.32,2,No,No,No,Yes
+S1221,16,Male,Cartagena,4.51,79.0,2.34,4,No,No,No,Yes
+S1222,20,Male,Barranquilla,3.07,49.0,3.79,1,Yes,No,Yes,No
+S1223,16,Female,Soledad,3.59,59.0,3.84,4,No,No,No,No
+S1224,18,Male,Other,3.31,59.0,3.84,3,No,No,No,No
+S1225,21,Male,Barranquilla,2.67,57.0,3.2,2,No,Yes,Yes,Yes
+S1226,19,Female,Santa Marta,3.65,78.0,3.3,3,No,No,No,No
+S1227,17,Male,Barranquilla,3.63,66.0,3.66,2,No,No,No,No
+S1228,18,Female,Valledupar,4.53,65.0,3.47,3,No,No,Yes,Yes
+S1229,20,Male,Barranquilla,4.05,44.0,1.62,2,Yes,Yes,No,Yes
+S1230,18,Male,Other,3.14,76.0,3.22,1,No,No,No,Yes
+S1231,19,Male,Soledad,4.72,53.0,2.72,1,No,Yes,No,No
+S1232,19,Female,,4.37,69.0,3.54,3,No,Yes,Yes,No
+S1233,18,Female,Barranquilla,4.02,71.0,5.0,5,No,No,Yes,No
+S1234,23,Female,Barranquilla,3.58,84.0,3.69,2,Yes,Yes,Yes,Yes
+S1235,20,Male,Cartagena,3.17,52.0,3.15,4,No,No,No,Yes
+S1236,16,Female,Barranquilla,3.5,32.0,4.14,3,No,Yes,No,Yes
+S1237,19,Male,Montería,4.3,70.0,3.79,5,No,No,Yes,Yes
+S1238,18,Male,Soledad,4.74,,3.74,4,No,Yes,Yes,No
+S1239,21,Female,Barranquilla,4.55,83.0,3.89,3,No,Yes,No,Yes
+S1240,17,Male,Cartagena,3.43,71.0,5.0,3,Yes,Yes,No,No
+S1241,19,Male,Santa Marta,3.08,62.0,2.5,5,No,Yes,No,Yes
+S1242,20,Male,Barranquilla,3.78,78.0,3.78,2,Yes,Yes,No,No
+S1243,21,Male,Barranquilla,2.73,56.0,2.66,2,No,Yes,No,Yes
+S1244,17,Male,Barranquilla,3.88,74.0,,1,Yes,No,Yes,No
+S1245,18,Female,,3.62,74.0,2.67,4,Yes,Yes,No,Yes
+S1246,18,Male,Santa Marta,3.44,81.0,3.07,4,No,No,No,Yes
+S1247,18,Female,Soledad,2.82,100.0,3.16,1,No,No,No,No
+S1248,23,Female,Montería,3.98,73.0,4.18,3,No,No,No,Yes
+S1249,20,Male,Montería,3.41,62.0,4.13,3,No,No,Yes,No
+S1250,16,Male,Cartagena,3.06,68.0,2.4,1,No,No,Yes,No
+S1251,21,Male,Montería,2.12,47.0,3.44,6,No,Yes,No,Yes
+S1252,23,Female,Barranquilla,3.68,60.0,2.83,1,No,Yes,Yes,Yes
+S1253,21,Male,Barranquilla,4.67,63.0,,1,Yes,No,Yes,Yes
+S1254,16,Female,Barranquilla,4.61,62.0,,3,No,Yes,Yes,No
+S1255,18,Male,Barranquilla,3.45,70.0,3.15,4,No,Yes,Yes,No
+S1256,22,Female,Cartagena,3.37,58.0,5.0,1,No,Yes,No,Yes
+S1257,18,Male,Other,3.96,81.0,3.75,3,No,Yes,Yes,No
+S1258,20,Male,Barranquilla,3.15,68.0,2.3,3,Yes,Yes,No,Yes
+S1259,21,Female,Barranquilla,3.87,68.0,2.95,1,Yes,No,No,No
+S1260,17,Female,Soledad,4.12,64.0,4.22,1,No,Yes,No,No
+S1261,19,Male,Other,4.37,70.0,5.0,3,No,No,Yes,Yes
+S1262,16,Female,Barranquilla,3.64,78.0,,2,Yes,Yes,No,Yes
+S1263,17,Female,Cartagena,3.59,58.0,1.9,5,No,Yes,Yes,Yes
+S1264,18,Female,Barranquilla,3.22,60.0,4.9,4,No,No,No,Yes
+S1265,17,Female,Barranquilla,3.25,64.0,,6,No,Yes,No,No
+S1266,22,Male,Other,3.58,52.0,2.71,2,No,No,No,Yes
+S1267,16,Male,Other,3.9,58.0,3.83,6,Yes,No,No,Yes
+S1268,18,Male,Barranquilla,4.2,62.0,1.29,2,,Yes,No,Yes
+S1269,19,Female,Other,3.26,78.0,3.4,2,No,No,No,No
+S1270,22,Female,Santa Marta,4.52,71.0,3.66,1,No,Yes,No,Yes
+S1271,16,Male,Montería,3.55,70.0,4.14,1,,No,No,Yes
+S1272,21,Male,Soledad,3.69,78.0,2.59,4,Yes,Yes,No,Yes
+S1273,19,Female,Cartagena,3.29,66.0,,2,No,No,No,No
+S1274,17,Other,Soledad,2.37,73.0,2.66,2,Yes,Yes,No,Yes
+S1275,20,Female,Santa Marta,4.19,67.0,3.6,3,No,No,No,Yes
+S1276,19,Male,Barranquilla,4.11,71.0,2.68,2,No,No,No,Yes
+S1277,18,Male,Barranquilla,3.55,61.0,3.07,3,Yes,No,No,Yes
+S1278,19,Male,Barranquilla,3.74,39.0,2.6,2,No,No,Yes,Yes
+S1279,18,Female,Santa Marta,3.98,66.0,3.92,4,Yes,No,No,No
+S1280,19,Male,,2.84,85.0,4.09,4,No,No,Yes,No
+S1281,20,Female,Santa Marta,3.41,79.0,3.21,3,,Yes,No,Yes
+S1282,22,Male,Other,4.14,80.0,3.43,2,No,Yes,Yes,No
+S1283,17,Female,Barranquilla,3.01,83.0,2.24,2,No,Yes,Yes,Yes
+S1284,23,Female,Santa Marta,3.86,69.0,3.16,4,No,No,No,No
+S1285,16,Female,Soledad,2.95,70.0,3.36,2,No,No,No,No
+S1286,19,Male,Montería,3.96,61.0,5.0,1,No,No,Yes,Yes
+S1287,20,Male,Barranquilla,3.68,64.0,2.51,1,No,Yes,No,Yes
+S1288,20,Male,Santa Marta,2.81,75.0,4.57,3,Yes,No,Yes,No
+S1289,18,Female,Montería,4.34,82.0,4.2,3,No,Yes,Yes,Yes
+S1290,19,Female,Other,3.3,66.0,3.62,4,Yes,Yes,No,Yes
+S1291,18,Female,Santa Marta,3.25,63.0,4.81,2,No,No,No,Yes
+S1292,18,Female,Soledad,3.81,68.0,3.7,2,No,No,Yes,No
+S1293,21,Female,Cartagena,4.33,75.0,3.71,4,Yes,No,No,No
+S1294,20,Male,Montería,3.14,51.0,3.36,4,No,No,Yes,No
+S1295,18,Female,Cartagena,3.73,40.0,4.38,2,No,Yes,No,Yes
+S1296,21,Male,Barranquilla,3.94,61.0,4.28,2,,No,No,No
+S1297,20,Male,Other,4.08,53.0,2.9,2,Yes,Yes,No,Yes
+S1298,21,Female,Santa Marta,3.8,62.0,2.34,5,No,No,No,No
+S1299,20,Male,Santa Marta,3.5,66.0,3.24,1,No,No,No,Yes
+S1300,17,Male,Barranquilla,3.24,63.0,2.76,5,No,Yes,No,Yes
+S1301,18,Female,Santa Marta,3.75,85.0,3.35,3,Yes,Yes,Yes,No
+S1302,20,Male,Soledad,3.11,,4.39,3,No,No,No,Yes
+S1303,20,Female,Santa Marta,2.09,,3.03,1,,No,No,Yes
+S1304,19,Male,Barranquilla,3.94,75.0,3.37,3,No,No,Yes,Yes
+S1305,19,Male,Santa Marta,4.2,54.0,3.45,2,No,Yes,Yes,Yes
+S1306,22,Male,Other,2.4,80.0,,1,No,Yes,No,No
+S1307,18,Male,Barranquilla,3.14,67.0,1.6,3,No,No,No,Yes
+S1308,20,Female,Other,4.04,76.0,2.91,6,No,No,Yes,Yes
+S1309,19,Male,Soledad,4.83,55.0,3.57,3,No,Yes,Yes,No
+S1310,19,Female,Montería,3.71,49.0,4.36,4,No,No,No,Yes
+S1311,21,Male,Valledupar,3.3,78.0,3.01,1,No,Yes,No,Yes
+S1312,21,Female,Cartagena,3.6,73.0,1.9,2,No,No,No,Yes
+S1313,21,Female,Valledupar,4.46,57.0,3.9,1,No,No,No,No
+S1314,22,Female,Montería,3.34,58.0,2.89,3,No,No,Yes,No
+S1315,19,Male,Soledad,3.26,82.0,2.45,5,No,Yes,No,No
+S1316,20,Male,Barranquilla,3.43,54.0,2.9,3,No,No,No,Yes
+S1317,18,Male,Santa Marta,3.18,88.0,3.25,1,No,Yes,No,No
+S1318,20,Female,Montería,3.77,,2.92,2,Yes,Yes,Yes,Yes
+S1319,19,Male,Valledupar,4.59,76.0,1.64,3,No,No,No,Yes
+S1320,19,Female,Valledupar,3.88,,4.12,2,No,No,No,Yes
+S1321,20,Female,Soledad,3.56,75.0,4.42,4,Yes,No,No,No
+S1322,17,Male,Montería,3.54,61.0,3.92,4,Yes,No,No,No
+S1323,23,Female,Barranquilla,2.84,66.0,2.49,3,No,No,Yes,Yes
+S1324,17,Male,Cartagena,4.19,68.0,3.24,2,No,Yes,No,Yes
+S1325,17,Male,Barranquilla,3.66,56.0,3.39,2,No,Yes,No,Yes
+S1326,21,Female,Barranquilla,3.6,77.0,3.88,1,Yes,Yes,No,No
+S1327,35,Female,,5.0,62.0,3.93,2,No,No,No,Yes
+S1328,20,Female,Soledad,3.86,65.0,2.81,2,Yes,No,No,No
+S1329,20,Male,Santa Marta,3.29,56.0,3.47,3,No,Yes,No,Yes
+S1330,19,Male,,3.47,37.0,3.77,3,Yes,No,No,No
+S1331,17,Female,Soledad,4.33,66.0,4.56,1,Yes,No,Yes,No
+S1332,19,Female,Barranquilla,3.76,97.0,3.96,2,Yes,No,No,Yes
+S1333,18,Female,Soledad,2.91,77.0,4.03,1,No,Yes,No,Yes
+S1334,21,Male,Barranquilla,4.21,68.0,3.47,1,Yes,Yes,No,No
+S1335,19,Female,Barranquilla,3.33,65.0,4.53,4,No,Yes,No,No
+S1336,17,Male,Cartagena,4.73,68.0,3.73,1,No,Yes,No,Yes
+S1337,18,Male,Santa Marta,4.29,75.0,,2,No,No,No,Yes
+S1338,20,Female,Cartagena,3.45,54.0,,1,No,No,No,No
+S1339,18,Male,Soledad,4.4,81.0,3.96,5,No,No,No,No
+S1340,17,Female,Soledad,3.74,77.0,,3,Yes,No,No,No
+S1341,19,Male,Montería,4.17,,3.02,2,No,No,Yes,Yes
+S1342,19,Male,Cartagena,3.97,73.0,3.64,3,Yes,Yes,Yes,Yes
+S1343,18,Female,Soledad,3.23,68.0,3.77,4,Yes,No,No,No
+S1344,18,Female,Barranquilla,3.35,76.0,3.56,6,No,No,Yes,Yes
+S1345,19,Female,Barranquilla,4.27,75.0,3.65,2,No,Yes,Yes,No
+S1346,16,Female,Soledad,3.52,64.0,4.76,5,No,Yes,No,Yes
+S1347,16,Female,Soledad,3.48,61.0,,5,No,No,No,Yes
+S1348,18,Female,Cartagena,3.17,69.0,3.55,5,No,Yes,No,Yes
+S1349,19,Female,Cartagena,3.93,87.0,4.15,3,Yes,No,No,No
+S1350,20,Male,Cartagena,4.83,,2.57,3,Yes,Yes,No,Yes
+S1351,22,Female,Valledupar,3.11,50.0,3.72,2,Yes,No,No,Yes
+S1352,21,Male,Montería,3.71,70.0,4.85,4,Yes,Yes,Yes,No
+S1353,19,Other,Santa Marta,4.48,69.0,3.23,3,No,Yes,No,No
+S1354,19,Female,Other,3.66,70.0,2.72,3,No,No,No,Yes
+S1355,17,Male,Barranquilla,3.95,120.0,2.88,2,Yes,Yes,No,Yes
+S1356,19,Female,Barranquilla,3.12,110.0,2.53,4,No,No,No,Yes
+S1357,18,Female,Barranquilla,3.94,86.0,2.77,4,,Yes,No,Yes
+S1358,20,Male,Santa Marta,3.6,49.0,3.1,1,No,Yes,Yes,No
+S1359,17,Female,Other,4.24,58.0,2.28,4,Yes,Yes,No,Yes
+S1360,20,Female,Barranquilla,4.35,67.0,3.41,3,,Yes,No,No
+S1361,22,Male,Other,5.0,48.0,4.12,4,Yes,No,No,Yes
+S1362,19,Female,Barranquilla,4.02,66.0,2.67,2,Yes,Yes,Yes,Yes
+S1363,20,Male,Other,3.88,-5.0,4.62,2,No,No,No,Yes
+S1364,20,Female,Soledad,3.81,68.0,3.81,5,Yes,Yes,No,Yes
+S1365,18,Other,Barranquilla,3.51,71.0,4.22,2,No,Yes,Yes,Yes
+S1366,19,Female,Soledad,3.89,53.0,2.87,4,No,No,No,Yes
+S1367,19,Male,Barranquilla,3.54,,4.08,3,No,Yes,No,No
+S1368,19,Female,Barranquilla,3.79,63.0,2.53,3,No,No,No,Yes
+S1369,17,Female,Barranquilla,4.42,64.0,,2,Yes,Yes,No,No
+S1370,19,Male,Montería,3.15,83.0,3.54,3,No,No,No,Yes
+S1371,20,Female,Cartagena,4.33,75.0,3.84,2,No,No,No,Yes
+S1372,22,Male,Barranquilla,4.42,55.0,2.46,1,Yes,No,No,Yes
+S1373,21,Female,Cartagena,3.64,71.0,2.68,2,Yes,No,Yes,No
+S1374,23,Male,Santa Marta,2.53,74.0,3.88,1,No,No,No,Yes
+S1375,17,Male,Barranquilla,3.37,82.0,2.64,6,No,Yes,Yes,Yes
+S1376,21,Male,Soledad,4.41,87.0,3.77,6,No,Yes,Yes,No
+S1377,19,Female,Barranquilla,3.69,,2.31,2,No,No,No,Yes
+S1378,23,Male,Barranquilla,3.15,,4.08,4,No,Yes,No,No
+S1379,17,Female,Santa Marta,3.42,53.0,2.41,2,Yes,No,No,Yes
+S1380,17,Male,Barranquilla,4.16,65.0,0.1,3,No,No,No,Yes
+S1381,18,Male,Cartagena,4.0,74.0,3.9,4,Yes,Yes,No,No
+S1382,16,Female,Santa Marta,3.57,80.0,,5,Yes,No,Yes,Yes
+S1383,18,Female,Barranquilla,3.5,67.0,3.87,2,No,No,No,No
+S1384,17,Male,Cartagena,3.48,64.0,3.61,4,No,No,No,Yes
+S1385,19,Female,Barranquilla,3.19,70.0,2.97,2,No,No,No,Yes
+S1386,20,Female,Other,4.59,58.0,2.59,6,No,Yes,No,Yes
+S1387,23,Female,Soledad,3.52,93.0,1.83,1,No,Yes,No,Yes
+S1388,21,Male,Montería,4.37,49.0,3.68,3,Yes,No,No,No
+S1389,18,Male,Cartagena,4.54,70.0,2.15,3,Yes,Yes,Yes,No
+S1390,17,Female,Barranquilla,4.25,92.0,,3,Yes,No,No,No
+S1391,20,Male,Santa Marta,3.46,68.0,3.19,1,No,No,No,No
+S1392,16,Female,Other,3.92,66.0,3.94,5,No,No,No,Yes
+S1393,23,Female,Cartagena,3.69,64.0,3.16,1,No,Yes,Yes,Yes
+S1394,21,Female,Montería,3.2,66.0,3.14,3,No,No,No,Yes
+S1395,18,Female,Other,3.88,84.0,3.99,2,No,No,Yes,No
+S1396,16,Other,Barranquilla,3.05,41.0,3.67,2,Yes,No,No,Yes
+S1397,22,Male,Barranquilla,4.35,86.0,3.65,3,No,No,No,No
+S1398,19,Female,Cartagena,3.44,51.0,3.78,2,No,No,Yes,Yes
+S1399,21,Male,,3.81,65.0,2.17,1,No,No,No,Yes
+S1400,16,Male,Montería,3.86,63.0,4.01,1,No,No,Yes,Yes
+S1401,18,Female,Other,3.56,75.0,3.89,2,Yes,No,No,Yes
+S1402,19,Female,Soledad,4.02,49.0,2.59,4,No,Yes,No,Yes
+S1403,19,Other,Barranquilla,3.44,74.0,3.2,5,No,No,Yes,Yes
+S1404,18,Female,Valledupar,4.18,92.0,3.37,1,Yes,No,Yes,Yes
+S1405,20,Male,Barranquilla,2.96,52.0,3.29,2,No,No,No,No
+S1406,17,Male,Montería,3.77,70.0,3.67,1,No,No,Yes,No
+S1407,19,Female,Soledad,4.77,60.0,4.55,1,No,No,Yes,Yes
+S1408,19,Male,Santa Marta,3.15,73.0,4.27,3,Yes,No,No,Yes
+S1409,14,Male,Barranquilla,3.33,68.0,2.35,3,No,No,No,Yes
+S1410,20,Male,Santa Marta,3.98,60.0,3.9,1,,No,No,No
+S1411,17,Male,Soledad,3.8,74.0,4.46,2,No,No,Yes,No
+S1412,16,Male,Cartagena,3.89,90.0,3.71,1,No,No,Yes,Yes
+S1413,22,Male,Barranquilla,3.97,66.0,4.27,4,No,Yes,Yes,Yes
+S1414,20,Male,Valledupar,4.05,77.0,5.0,6,No,No,Yes,No
+S1415,18,Male,Montería,4.31,52.0,4.22,1,No,No,No,Yes
+S1416,22,Other,Barranquilla,3.93,57.0,3.6,2,No,No,No,Yes
+S1417,19,Male,Barranquilla,3.57,74.0,4.24,5,Yes,No,Yes,No
+S1418,21,Male,Barranquilla,4.07,86.0,3.52,5,No,No,No,Yes
+S1419,19,Female,Santa Marta,4.74,72.0,3.42,2,Yes,No,No,Yes
+S1420,23,Male,Cartagena,3.63,64.0,,1,No,Yes,No,No
+S1421,23,Female,Cartagena,3.16,68.0,4.65,1,No,No,No,No
+S1422,19,Female,Barranquilla,4.31,53.0,2.75,3,No,No,No,Yes
+S1423,21,Male,Soledad,3.63,75.0,4.63,2,No,Yes,Yes,No
+S1424,20,Male,Cartagena,2.51,79.0,3.8,1,No,Yes,Yes,Yes
+S1425,22,Female,Soledad,4.17,63.0,2.28,3,Yes,No,No,No
+S1426,17,Female,Other,3.41,62.0,3.69,1,No,No,Yes,Yes
+S1427,20,Male,Barranquilla,3.65,,1.72,4,No,Yes,No,No
+S1428,21,Female,Santa Marta,3.88,63.0,3.9,2,Yes,No,No,No
+S1429,16,Male,Soledad,3.8,67.0,4.11,1,Yes,No,No,Yes
+S1430,17,Other,Soledad,4.09,93.0,2.93,3,No,No,No,No
+S1431,16,Male,Santa Marta,3.46,65.0,3.5,2,No,No,No,No
+S1432,18,Female,Santa Marta,3.98,64.0,,6,No,No,No,No
+S1433,20,Female,Other,3.56,60.0,3.0,3,No,No,No,Yes
+S1434,22,Female,Barranquilla,4.11,77.0,2.55,2,Yes,No,Yes,No
+S1435,19,Female,Barranquilla,4.04,66.0,4.59,4,,No,No,No
+S1436,22,Male,Valledupar,3.19,60.0,4.97,2,No,Yes,Yes,Yes
+S1437,16,Male,Cartagena,4.3,84.0,3.4,5,No,No,No,No
+S1438,16,Male,Barranquilla,3.41,85.0,4.21,2,No,Yes,No,Yes
+S1439,19,Male,Barranquilla,0.4,61.0,,3,No,Yes,No,Yes
+S1440,33,Female,Barranquilla,3.9,46.0,2.81,1,No,Yes,No,Yes
+S1441,19,Male,Other,4.71,80.0,3.01,2,No,Yes,No,Yes
+S1442,16,Male,Barranquilla,3.58,60.0,4.38,4,Yes,No,No,No
+S1443,19,Female,Barranquilla,3.51,77.0,4.75,4,No,Yes,Yes,Yes
+S1444,16,Female,Barranquilla,3.69,44.0,3.85,2,No,No,No,No
+S1445,20,Female,Soledad,3.53,79.0,2.7,2,No,No,No,Yes
+S1446,20,Other,Barranquilla,4.14,53.0,4.99,4,Yes,No,No,Yes
+S1447,17,Male,Cartagena,2.81,77.0,2.98,5,No,Yes,No,Yes
+S1448,18,Male,Barranquilla,3.12,68.0,3.13,1,Yes,No,Yes,Yes
+S1449,17,Female,Montería,3.11,57.0,3.67,2,No,No,No,No
+S1450,19,Female,Barranquilla,4.22,63.0,4.64,2,No,No,No,No
+S1451,21,Male,Cartagena,4.64,76.0,4.08,5,No,No,No,No
+S1452,17,Female,Other,3.64,69.0,3.73,1,Yes,No,Yes,Yes
+S1453,20,Male,Santa Marta,3.61,75.0,3.77,1,No,No,No,Yes
+S1454,18,Male,Cartagena,3.74,,3.43,4,No,Yes,No,Yes
+S1455,17,Female,Barranquilla,4.34,49.0,3.85,1,No,No,Yes,Yes
+S1456,19,Female,Barranquilla,3.19,87.0,1.38,3,No,Yes,No,Yes
+S1457,17,Female,,3.83,69.0,3.16,2,No,No,No,No
+S1458,18,Male,Other,4.24,57.0,3.59,2,No,Yes,No,Yes
+S1459,17,Female,Santa Marta,3.98,,,2,,Yes,No,Yes
+S1460,23,Male,Cartagena,3.8,66.0,3.71,3,Yes,No,No,Yes
+S1461,19,Male,Valledupar,4.25,79.0,3.24,1,No,No,No,Yes
+S1462,18,Female,Soledad,2.21,66.0,4.8,3,No,No,No,No
+S1463,19,Female,Barranquilla,4.07,,4.66,4,No,No,Yes,Yes
+S1464,19,Female,Cartagena,3.34,51.0,3.03,4,No,No,Yes,No
+S1465,19,Female,Other,2.69,68.0,3.28,1,Yes,Yes,No,Yes
+S1466,20,Female,Barranquilla,3.98,53.0,3.34,1,No,No,No,Yes
+S1467,21,Female,Santa Marta,4.46,72.0,3.04,2,No,Yes,Yes,No
+S1468,18,Male,Barranquilla,3.62,79.0,3.56,2,No,No,No,Yes
+S1469,18,Male,Cartagena,4.22,63.0,2.79,2,Yes,No,No,Yes
+S1470,18,Male,Barranquilla,4.59,37.0,2.5,3,No,Yes,Yes,Yes
+S1471,16,Male,Soledad,4.42,70.0,3.9,1,No,No,No,Yes
+S1472,16,Female,Valledupar,4.6,73.0,3.9,1,Yes,Yes,Yes,No
+S1473,22,Female,Barranquilla,4.11,73.0,2.76,2,No,No,No,Yes
+S1474,22,Male,Santa Marta,3.74,83.0,4.12,4,Yes,No,No,No
+S1475,19,Male,Valledupar,2.82,55.0,,1,No,No,No,Yes
+S1476,20,Female,Other,3.56,76.0,3.6,3,No,Yes,Yes,Yes
+S1477,20,Male,Barranquilla,3.24,82.0,,2,No,Yes,No,No
+S1478,25,Female,Soledad,4.89,47.0,3.37,5,No,Yes,No,Yes
+S1479,21,Female,Barranquilla,3.6,72.0,3.76,5,No,Yes,No,No
+S1480,19,Female,Other,3.77,62.0,2.99,2,Yes,No,Yes,Yes
+S1481,17,Female,Other,4.0,67.0,3.24,2,Yes,No,No,Yes
+S1482,16,Female,Cartagena,3.72,72.0,3.24,2,No,No,No,Yes
+S1483,19,Male,Montería,4.63,62.0,2.8,2,No,No,No,No
+S1484,17,Female,Cartagena,3.36,60.0,3.26,3,No,No,No,No
+S1485,16,Female,Santa Marta,3.81,68.0,2.16,4,No,No,No,Yes
+S1486,18,Male,Barranquilla,3.29,55.0,3.01,3,No,No,No,Yes
+S1487,17,Female,Valledupar,2.97,55.0,,4,No,No,Yes,Yes
+S1488,22,Female,Barranquilla,3.36,76.0,3.2,2,No,Yes,No,No
+S1489,21,Female,Montería,3.68,54.0,3.21,1,No,Yes,Yes,Yes
+S1490,19,Female,Valledupar,3.46,76.0,3.35,4,No,No,No,No
+S1491,22,Female,Santa Marta,3.32,74.0,3.78,2,Yes,Yes,Yes,Yes
+S1492,19,Female,Barranquilla,2.93,47.0,4.1,3,Yes,Yes,No,Yes
+S1493,17,Female,Barranquilla,3.65,60.0,2.88,2,Yes,No,Yes,Yes
+S1494,22,Female,Barranquilla,2.87,82.0,2.44,1,Yes,No,No,Yes
+S1495,20,Female,Soledad,4.12,56.0,2.57,6,No,No,No,Yes
+S1496,17,Female,Barranquilla,3.75,62.0,3.01,1,No,Yes,Yes,No
+S1497,19,Female,Other,2.9,74.0,3.12,6,No,No,Yes,Yes
+S1498,17,Male,Cartagena,3.53,77.0,2.78,6,No,No,Yes,No
+S1499,16,Female,,3.29,65.0,2.36,4,No,No,No,No
